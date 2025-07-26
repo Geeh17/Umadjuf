@@ -1,0 +1,10 @@
+.botaoPrincipal {
+  background-color: #e67f42;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  transition: background-color 0.2s;
+}
+.botaoPrincipal:hover {
+  background-color: #d1683a;
+}

@@ -25,7 +25,7 @@ export default function EventosPage() {
             AVIVA UMADJUF 2025
           </h2>
           <p className="text-gray-700 mb-4 text-sm sm:text-base">
-            Dia 29 de novembro. Culto especial de avivamento. Venha participar!
+            Dia 29 de novembro, faça sua inscrição, e venha participar!
           </p>
           <Link
             href="/inscricao/aviva-2025"
@@ -49,8 +49,7 @@ export default function EventosPage() {
             ACAMP UMADJUF 2026
           </h2>
           <p className="text-gray-700 mb-4 text-sm sm:text-base">
-            De 14 a 17 de fevereiro na Fazenda Manain (Goianá). Garanta sua
-            vaga!
+            De 14 a 17 de fevereiro, faça sua inscrição, e venha participar!
           </p>
           <Link
             href="/inscricao/acamp-2026"

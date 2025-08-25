@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-gray-50 text-gray-900; }
+.card { @apply bg-white rounded-2xl shadow p-6; }
+.btn { @apply px-4 py-2 rounded-xl bg-brandMid text-white hover:opacity-90 transition; }
+.input { @apply w-full p-2 border rounded-lg; }
+
+:root{
+  --brand-top:#e67f42;
+  --brand-mid:#d1683a;
+  --brand-bg:#c48e6c;
+}
+.brand-gradient{
+  background: linear-gradient(90deg, var(--brand-top), var(--brand-mid));
+}
+header.brand{ @apply rounded-2xl shadow mb-8 overflow-hidden; }
